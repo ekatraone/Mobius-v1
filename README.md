@@ -86,7 +86,7 @@ The proposed workflow for the intelligent search engine includes the following s
 
 - [**OpenAI**](https://openai.com): OpenAI is known for its advanced language models such as GPT-3, which provide developers with powerful natural language processing capabilities for a wide range of applications. Their language models can perform tasks such as text completion, translation, and question-answering with impressive accuracy.
 
-- [**Huggingface**](https://huggingface.co): A startup that develops state-of-the-art natural language processing technologies and tools, including pre-trained models, fine-tuning tools, and language generation tools.
+- [**Huggingface**](https://huggingface.co): Hugging Face is a comprehensive platform that offers both tools and a community for data scientists, researchers, and ML engineers. The platform's tools empower users to develop, train, and implement machine learning models based on open-source code and technologies.
 
 - [**Sentence Transformers Library**](https://huggingface.co/sentence-transformers): The Sentence Transformers library is a core component of the tech stack as it provides pre-trained models for sentence embedding generation, as well as tools for fine-tuning and training new models.
 
