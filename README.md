@@ -17,10 +17,13 @@
 ---
 ### 1. Unlock the power of learning with our innovative micro learning courses delivered straight to your WhatsApp! Embark on a journey of discovery and growth, right at your fingertips. 
 ### Don't miss out on this incredible opportunity, come and check it out! [Ekatra Learning](https://bit.ly/ekatra001)
-
-<img src="./Ekatra%20Course%20Screenshot.jpeg"  width="30%" height="30%">
+<p align="center">
+<img src="./Ekatra%20Course%20Screenshot.jpeg"  width="40%" height="40%">
+</p>
 
 ### 2. 🎥 Check out our wesbite [demo video](https://www.awesomescreenshot.com/video/15118083?key=c9f98dd8fcc835f6f97c1cefd7ac6317)
+<img src="./Case%201.png"  width="120%" height="100%"> 
+<img src="./Case%202.png"  width="120%" height="100%">
 
 ---
 ## Abstract
