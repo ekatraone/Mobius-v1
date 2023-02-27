@@ -15,7 +15,12 @@
 
 ### 🏠 [Homepage](https://github.com/ekatraone/Ekatra-QnA-System)
 ---
-### 🎥 Check out our [demo video](https://www.awesomescreenshot.com/video/15118083?key=c9f98dd8fcc835f6f97c1cefd7ac6317)
+### 1. Unlock the power of learning with our innovative micro learning courses delivered straight to your WhatsApp! Embark on a journey of discovery and growth, right at your fingertips. 
+### Don't miss out on this incredible opportunity, come and check it out! [Ekatra Learning](https://bit.ly/ekatra001)
+
+![Ekatra Course Screenshot](./ekatra_whatsapp_course)
+
+### 2. 🎥 Check out our wesbite [demo video](https://www.awesomescreenshot.com/video/15118083?key=c9f98dd8fcc835f6f97c1cefd7ac6317)
 ---
 ## Abstract
 
@@ -25,6 +30,8 @@
 - Ekatra QnA employs cutting-edge technologies such as OpenAI and Sentence Transformers to filter out irrelevant information and offer students the most useful and appropriate content. The system is built to boost productivity and save time for students as it efficiently identifies the required information, allowing them to concentrate more on learning and less on searching.
 
 - Furthermore, it should be noted that all information in the search engine comes from a validated source. If the answer to a question is not present in the documents, the system is equipped to recognize this and prevent sharing misleading information.
+
+- Many individuals struggle to find the time and resources to invest in their personal and professional development, and often find traditional classroom learning to be inflexible and limiting. Our microlearning courses on WhatsApp solve these problems and offer a new and innovative way to learn. With our bite-sized, self-paced lessons, you can easily fit learning into your busy schedule and enjoy the freedom of learning at your own speed. Our courses are accessible anytime and anywhere through WhatsApp messaging, making it easy to fit learning into your daily routine. Plus, we regularly update our courses with new content and materials, ensuring that your learning experience is always fresh and exciting
 
 *Learn more about Ekatra here: https://www.ekatra.one/*
 
@@ -90,6 +97,9 @@ The proposed workflow for the intelligent search engine includes the following s
 
 - [**Sentence Transformers Library**](https://huggingface.co/sentence-transformers): The Sentence Transformers library is a core component of the tech stack as it provides pre-trained models for sentence embedding generation, as well as tools for fine-tuning and training new models.
 
+### WhatsApp Business Provider
+
+- [**WATI**](https://www.wati.io): WhatsApp API was launched to help medium to large companies that wanted to use WhatsApp to communicate with multiple customers at scale. WhatsApp Business API enables businesses to automate communications with automated replies, WhatsApp chatbots & interactive messages.
 ----
 ## Architecture
 
@@ -115,10 +125,11 @@ The proposed workflow for the intelligent search engine includes the following s
 3.	NLTK
 4.	Streamlit
 5.	Sentence Transformers
+6.  PyPDF2
 
 ---
 ## User's Guide 👥
-Here's a quick guide to help you get started:
+A. Here's a quick guide to help you get started our website:
 
 1. Visit [Ekatra QnA](https://ramsha-ekatra-ekatra-qna.hf.space/)
 
@@ -127,6 +138,16 @@ Here's a quick guide to help you get started:
 3. Once you have uploaded your files, simply wait for the **"Process Completed"** message before you start asking any questions related to the content of your PDF files. 
 
 4. Our search engine will then be ready to provide you with the most relevant answers to your queries.
+
+B. Follow these steps to get started with our WhatsApp Course
+
+1. Visit the link - [Ekatra Learning](https://bit.ly/ekatra001).
+
+2. Once you're on the landing page, click the button to start a conversation on WhatsApp.
+
+3. You will be directed to a pre-filled message with our contact information.
+
+4. Send the message to us and start learning!
 
 
 ---
