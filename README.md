@@ -28,7 +28,7 @@
 ---
 ## Abstract
 
-- The objective of this project is to create a smart search engine named [Ekatra](www.ekatra.one) QnA, which is intended to assist students in finding answers from various sources such as web links and PDF documents in a prompt and effective manner. The search engine employs NLP techniques, including text extraction, preprocessing, vectorization, and semantic similarity, to accurately and quickly identify the most suitable answers to students' queries. The intended target audience for this project is students worldwide who face difficulties in finding pertinent information from a vast amount of data.
+- The objective of this project is to create a smart search engine named [Ekatra](https://www.ekatra.one) QnA, which is intended to assist students in finding answers from various sources such as web links and PDF documents in a prompt and effective manner. The search engine employs NLP techniques, including text extraction, preprocessing, vectorization, and semantic similarity, to accurately and quickly identify the most suitable answers to students' queries. The intended target audience for this project is students worldwide who face difficulties in finding pertinent information from a vast amount of data.
 
 
 - Ekatra QnA employs cutting-edge technologies such as OpenAI and Sentence Transformers to filter out irrelevant information and offer students the most useful and appropriate content. The system is built to boost productivity and save time for students as it efficiently identifies the required information, allowing them to concentrate more on learning and less on searching.
@@ -135,7 +135,7 @@ The proposed workflow for the intelligent search engine includes the following s
 ## User's Guide 👥
 A. Here's a quick guide to help you get started our website:
 
-1. Visit [Ekatra QnA](https://ramsha-ekatra-ekatra-qna.hf.space/)
+1. Visit [Ekatra QnA](https://ekatra-mobius.hf.space/)
 
 2. Once you're on our website, simply upload your PDF files using the easy upload feature.
 
