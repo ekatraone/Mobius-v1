@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Ekatra QnA System 👋</h1>
+<h1 align="center">Welcome to Ekatra Mobius 👋</h1>
 <p>
   <a href="." target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> Ekatra QnA is a student-focused intelligent search engine that enables them to find answers across various sources.
+> Mobius is a student-focused intelligent search engine that enables them to find answers across various sources.
 
 ### 🏠 [Homepage](https://github.com/ekatraone/Ekatra-QnA-System)
 ---
@@ -31,7 +31,7 @@
 - The objective of this project is to create a smart search engine named [Ekatra](https://www.ekatra.one) QnA, which is intended to assist students in finding answers from various sources such as web links and PDF documents in a prompt and effective manner. The search engine employs NLP techniques, including text extraction, preprocessing, vectorization, and semantic similarity, to accurately and quickly identify the most suitable answers to students' queries. The intended target audience for this project is students worldwide who face difficulties in finding pertinent information from a vast amount of data.
 
 
-- Ekatra QnA employs cutting-edge technologies such as OpenAI and Sentence Transformers to filter out irrelevant information and offer students the most useful and appropriate content. The system is built to boost productivity and save time for students as it efficiently identifies the required information, allowing them to concentrate more on learning and less on searching.
+- Mobius employs cutting-edge technologies such as OpenAI and Sentence Transformers to filter out irrelevant information and offer students the most useful and appropriate content. The system is built to boost productivity and save time for students as it efficiently identifies the required information, allowing them to concentrate more on learning and less on searching.
 
 - Furthermore, it should be noted that all information in the search engine comes from a validated source. If the answer to a question is not present in the documents, the system is equipped to recognize this and prevent sharing misleading information.
 
@@ -135,7 +135,7 @@ The proposed workflow for the intelligent search engine includes the following s
 ## User's Guide 👥
 A. Here's a quick guide to help you get started our website:
 
-1. Visit [Ekatra QnA](https://ekatra-mobius.hf.space/)
+1. Visit [Mobius](https://ekatra-mobius.hf.space/)
 
 2. Once you're on our website, simply upload your PDF files using the easy upload feature.
 
